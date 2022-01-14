@@ -29,7 +29,10 @@ $nonassignvalue = 0.49;
 echo round($assignvalue);
 echo "</br>";
 echo round($nonassignvalue);
-
+echo "</br>";
+//to generate random value
+$randsomvalue = rand();
+echo $randsomvalue;
 
 
 ?>
